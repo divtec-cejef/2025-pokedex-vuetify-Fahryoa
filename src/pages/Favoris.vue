@@ -3,7 +3,7 @@
 </script>
 
 <template>
-  <h1>Pokédex : page d'accueil</h1>
+  <h1>Mes Pokémons Favoris</h1>
 </template>
 
 <style scoped>

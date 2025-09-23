@@ -3,7 +3,7 @@
 </script>
 
 <template>
-  <h1>Pokédex : page d'accueil</h1>
+  <h1>Foire Aux Questions (FAQ)</h1>
 </template>
 
 <style scoped>
