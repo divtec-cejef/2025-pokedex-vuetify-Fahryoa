@@ -53,6 +53,9 @@
   */
   const menuItems = [
     { title: 'Accueil', path: '/', icon: 'mdi-pokeball' },
+    { title: 'Favoris', path: '/Favoris', icon: 'mdi-heart-outline' },
+    { title: 'FAQ', path: '/FAQ', icon: 'mdi-chat-question-outline' },
+    { title: 'KantoMap', path: '/KantoMap', icon: 'mdi-map-outline' },
     // Ajouter ici les autres liens du menu.
     // Vous trouverez des icônes sur https://pictogrammers.com/library/mdi/
     // N'oubliez pas d'ajouter le préfixe 'mdi-' devant le nom de l'icône.
